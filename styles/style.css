@@ -902,6 +902,7 @@ header{
         z-index: -100;
         display: block;
         background: url('../img/main/mobilefooter.svg') no-repeat;
+        background-size: 95%;
         /* width: 350px; */
         min-height: 300px;
         /* bottom: 995px; */
